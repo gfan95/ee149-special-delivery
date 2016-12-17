@@ -15,3 +15,7 @@ All the image processing code is inside main.py. To run, there are a few options
 To use "poll", run this code side by side with the server script.
 
 The server.py file contains the code that continuously waits and saves images send by the Arduino. Start this script if you want to save images from the Arduino onto your computer.
+
+Arduino code is under arduino.zip. Put this code onto the Arduino.
+
+Kobuki code is under kobukiNavigation.zip. Put this code onto the Kobuki.
