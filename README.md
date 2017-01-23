@@ -1,3 +1,5 @@
+For a full report, read the special-delivery-report.pdf file.
+
 All the image processing code is inside main.py. To run, there are a few options:
 
 	python main.py [-v] [-d] [-i INPUT FILES] [-a ACTION] [-x XLENGTH] [-y YLENGTH]
